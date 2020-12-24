@@ -11,6 +11,7 @@
   "dependencies": {
     "bad-words": "^3.0.4",
     "express": "^4.17.1",
+    "particles.js": "^2.0.0",
     "socket.io": "^3.0.4"
   },
   "devDependencies": {
